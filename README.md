@@ -1,7 +1,5 @@
 # Meetup.com Real-Time Analytics #
 
-## Abstract ##
-
 The concept of real time analytics assumes ever increasing importance with more and more data coming from smart connected devices. The constant stream of data that is coming from these connected systems is unique in its volume, variety and velocity. Ingesting, analyzing and presenting these highly unstructured data assumes significance as it will throw insights in real time that will help businesses make decisions quicker.
 
 In our project we wanted to dig deeper into this exciting field of real time analytics and get an insight into the technologies and the working of the real time streaming analytics. Hence, we analyzed the real time RSVP data of meetup.com to get real-time insights such as trending topics, cities etc. along with other business insights related to Meetups RSVPs. 
