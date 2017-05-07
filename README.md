@@ -1,4 +1,6 @@
-#Abstract
+# Meetup.com Real-Time Analytics #
+
+## Abstract ##
 
 The concept of real time analytics assumes ever increasing importance with more and more data coming from smart connected devices. The constant stream of data that is coming from these connected systems is unique in its volume, variety and velocity. Ingesting, analyzing and presenting these highly unstructured data assumes significance as it will throw insights in real time that will help businesses make decisions quicker.
 
